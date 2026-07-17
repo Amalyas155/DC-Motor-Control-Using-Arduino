@@ -6,13 +6,9 @@ Control a DC geared motor using **Arduino Uno** and the **L298N Motor Driver Mod
 
 ## 📸 Project Preview
 
-> Add your project image here.
+<img width="1215" height="1295" alt="4d2bfa4e-3d8b-4ceb-8d67-3c4ff46214d8" src="https://github.com/user-attachments/assets/f8e7d1b8-5446-4083-9f4b-53da30eeeba7" />
 
-```html
-<p align="center">
-  <img src="project-preview.jpg" width="700">
-</p>
-```
+
 
 ---
 
@@ -83,13 +79,7 @@ It acts as an interface between the Arduino and the DC motor by supplying enough
 5. The motor rotates backward.
 6. The sequence repeats continuously.
 
----
 
-## 📁 Arduino Code
-
-```cpp
-DC_Motor_Control.ino
-```
 
 ---
 
@@ -101,20 +91,10 @@ DC_Motor_Control.ino
 - 📚 Arduino Learning
 - 🎓 Engineering Labs
 
----
 
-## 📂 Repository Structure
-
-```
-DC-Motor-Control-Arduino
-│
-├── README.md
-├── DC_Motor_Control.ino
-└── project-preview.jpg
-```
 
 ---
 
 ## 👩‍💻 Author
 
-**Amal Althubaiti**
+**Amal Yasser**
